@@ -1,5 +1,5 @@
 /**
- * JavaCore.HW3
+ * JavaCore.HW4
  * @ author Anton Filatov
  * @ version 06.12.2022
  */
